@@ -1,4 +1,6 @@
-# SolVida Cycling v1
+# SolVida Cycling v2.1
+
+Incluye la identidad azul definitiva, la foto oficial, el logo y la bicicleta finales, el diseño editorial de artículos, la zona de recursos preparada para las tablas FTP y los enlaces a Instagram.
 
 ## Cómo abrirla
 1. Descomprime el ZIP.
@@ -8,5 +10,4 @@
 
 ## Antes de publicar
 - En `contacto.html`, cambia `TU-CORREO@EJEMPLO.COM` por tu correo.
-- Sustituye el enlace `#` de Instagram en los pies de página por tu enlace real.
 - Los PDF de Recursos están desactivados hasta validar las tablas.

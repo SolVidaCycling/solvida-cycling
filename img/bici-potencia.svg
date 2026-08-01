@@ -1,35 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" role="img" aria-labelledby="t d">
-<title id="t">Bicicleta de ciclismo indoor y gráfica de potencia</title>
-<desc id="d">Ilustración azul de una bicicleta de ciclismo indoor sobre una línea ascendente con datos de potencia y cadencia.</desc>
-<defs>
-  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#75b9c5" stop-opacity=".28"/>
-    <stop offset="1" stop-color="#75b9c5" stop-opacity="0"/>
-  </linearGradient>
-</defs>
-<path d="M25 410 C125 392 145 378 220 360 S340 338 410 300 S520 260 585 185 S665 108 735 70 L735 430 L25 430Z" fill="url(#area)"/>
-<path d="M25 410 C125 392 145 378 220 360 S340 338 410 300 S520 260 585 185 S665 108 735 70" fill="none" stroke="#0b7890" stroke-width="3"/>
-<g fill="#0b7890">
-  <circle cx="220" cy="360" r="6"/><circle cx="410" cy="300" r="6"/><circle cx="585" cy="185" r="6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" role="img" aria-labelledby="t d">
+<title id="t">Bicicleta de ciclismo indoor y línea de potencia</title><desc id="d">Ilustración azul de una bicicleta de ciclismo indoor entre una montaña y una curva de vatios.</desc>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b9d4e2" stop-opacity=".4"/><stop offset="1" stop-color="#e2f4f6" stop-opacity="0"/></linearGradient></defs>
+<path d="M18 337c60-4 88-42 127-66 38-24 57-56 86-96 19-26 36-21 53 11 18 35 38 74 90 101l-1 98H18z" fill="url(#fade)"/>
+<path d="M18 337c60-4 88-42 127-66 38-24 57-56 86-96 19-26 36-21 53 11 18 35 38 74 90 101" fill="none" stroke="#17698d" stroke-width="3.5" stroke-linecap="round"/>
+<g fill="none" stroke="#0d4d6d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+ <circle cx="372" cy="330" r="70"/><circle cx="552" cy="330" r="70"/><path d="M372 330l67-110 48 110zM439 220l113 110M439 220l39-39m-4 0h52M372 330l-26-118m-19 0h43M439 220l-24-53m-5 0h38M439 330l-30 37m30-37 34-26"/><circle cx="439" cy="330" r="11"/><path d="M368 400h-48m230 0h50"/>
 </g>
-<g fill="#123247" font-family="Arial,sans-serif">
-  <text x="187" y="397" font-size="15">82 rpm</text><text x="190" y="416" font-size="11" letter-spacing="1">CADENCIA</text>
-  <text x="374" y="340" font-size="15">215 W</text><text x="375" y="359" font-size="11" letter-spacing="1">POTENCIA</text>
-  <text x="558" y="226" font-size="15">FTP</text><text x="540" y="245" font-size="11" letter-spacing="1">TU REFERENCIA</text>
-</g>
-<g fill="none" stroke="#7cb3bf" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-  <circle cx="355" cy="250" r="72"/>
-  <circle cx="523" cy="250" r="72"/>
-  <path d="M355 250 L417 155 L460 250 Z"/>
-  <path d="M417 155 L523 250 M417 155 L453 127 M446 126 L487 126"/>
-  <path d="M355 250 L325 155 M310 155 L346 155"/>
-  <path d="M417 155 L387 115 M384 113 L420 113"/>
-  <circle cx="417" cy="250" r="10"/>
-  <path d="M417 250 l-28 33 M417 250 l31 -30"/>
-  <path d="M344 323 h-33 M522 323 h45"/>
-</g>
-<g fill="#123247" font-family="Arial,sans-serif">
-  <text x="620" y="48" font-size="13" letter-spacing="1">POWER</text>
-  <text x="620" y="70" font-size="22">228 W</text>
-</g>
+<g fill="#17698d"><rect x="130" y="306" width="14" height="22"/><rect x="150" y="291" width="14" height="37"/><rect x="170" y="272" width="14" height="56"/><rect x="190" y="250" width="14" height="78"/></g>
+<path d="M595 320c23 0 25-31 48-31s23 38 46 38 25-65 48-65 22 40 43 40" fill="none" stroke="#17698d" stroke-width="3" stroke-dasharray="7 7" stroke-linecap="round"/>
+<g fill="#0d4d6d" font-family="IBM Plex Sans,Arial,sans-serif"><text x="213" y="282" font-size="18">FTP</text><text x="672" y="356" font-size="18">WATTS</text><text x="672" y="381" font-size="18">RPM</text></g>
+<path d="M20 407c180 2 248-19 352-13 107 6 164 31 251 8 54-14 103-3 176 9" fill="none" stroke="#0d4d6d" stroke-width="3" stroke-linecap="round"/>
 </svg>
