@@ -1,6 +1,6 @@
-# SolVida Cycling v2.1
+# SolVida Cycling v2.2
 
-Incluye la identidad azul definitiva, la foto oficial, el logo y la bicicleta finales, el diseño editorial de artículos, la zona de recursos preparada para las tablas FTP y los enlaces a Instagram.
+Incluye el logo tipográfico sin bicicleta ni montaña, la identidad azul, la foto oficial, el artículo ampliado, el PDF descargable de zonas de entrenamiento y los enlaces a Instagram.
 
 ## Cómo abrirla
 1. Descomprime el ZIP.
@@ -10,4 +10,4 @@ Incluye la identidad azul definitiva, la foto oficial, el logo y la bicicleta fi
 
 ## Antes de publicar
 - En `contacto.html`, cambia `TU-CORREO@EJEMPLO.COM` por tu correo.
-- Los PDF de Recursos están desactivados hasta validar las tablas.
+- La tabla orientativa de FTP queda pendiente de incorporar.
