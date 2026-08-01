@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" role="img" aria-labelledby="t d">
+<title id="t">Bicicleta de ciclismo indoor y gráfica de potencia</title>
+<desc id="d">Ilustración azul de una bicicleta de ciclismo indoor sobre una línea ascendente con datos de potencia y cadencia.</desc>
+<defs>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#75b9c5" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#75b9c5" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<path d="M25 410 C125 392 145 378 220 360 S340 338 410 300 S520 260 585 185 S665 108 735 70 L735 430 L25 430Z" fill="url(#area)"/>
+<path d="M25 410 C125 392 145 378 220 360 S340 338 410 300 S520 260 585 185 S665 108 735 70" fill="none" stroke="#0b7890" stroke-width="3"/>
+<g fill="#0b7890">
+  <circle cx="220" cy="360" r="6"/><circle cx="410" cy="300" r="6"/><circle cx="585" cy="185" r="6"/>
+</g>
+<g fill="#123247" font-family="Arial,sans-serif">
+  <text x="187" y="397" font-size="15">82 rpm</text><text x="190" y="416" font-size="11" letter-spacing="1">CADENCIA</text>
+  <text x="374" y="340" font-size="15">215 W</text><text x="375" y="359" font-size="11" letter-spacing="1">POTENCIA</text>
+  <text x="558" y="226" font-size="15">FTP</text><text x="540" y="245" font-size="11" letter-spacing="1">TU REFERENCIA</text>
+</g>
+<g fill="none" stroke="#7cb3bf" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="355" cy="250" r="72"/>
+  <circle cx="523" cy="250" r="72"/>
+  <path d="M355 250 L417 155 L460 250 Z"/>
+  <path d="M417 155 L523 250 M417 155 L453 127 M446 126 L487 126"/>
+  <path d="M355 250 L325 155 M310 155 L346 155"/>
+  <path d="M417 155 L387 115 M384 113 L420 113"/>
+  <circle cx="417" cy="250" r="10"/>
+  <path d="M417 250 l-28 33 M417 250 l31 -30"/>
+  <path d="M344 323 h-33 M522 323 h45"/>
+</g>
+<g fill="#123247" font-family="Arial,sans-serif">
+  <text x="620" y="48" font-size="13" letter-spacing="1">POWER</text>
+  <text x="620" y="70" font-size="22">228 W</text>
+</g>
+</svg>
