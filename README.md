@@ -9,5 +9,5 @@ Incluye el logo tipográfico sin bicicleta ni montaña, la identidad azul, la fo
 4. Selecciona **Open with Live Server**.
 
 ## Antes de publicar
-- En `contacto.html`, cambia `TU-CORREO@EJEMPLO.COM` por tu correo.
+- El formulario de `contacto.html` envía los mensajes a través de `enviar-contacto.php`.
 - La tabla orientativa de FTP queda pendiente de incorporar.

@@ -29,28 +29,29 @@
     <p class="eyebrow">Contacto</p>
     <h1>¿Hablamos?</h1>
     <p>Si tienes alguna duda sobre entrenamiento por potencia, una propuesta de colaboración o simplemente quieres saludar, estaré encantada de leerte.</p>
-    <div class="contact-actions"><a class="button" href="mailto:info@solvidacycling.com">info@solvidacycling.com</a></div>
     <div class="conversation-line">♡</div>
   </section>
   <section class="container">
-    <form class="contact-form" action="mailto:info@solvidacycling.com" method="post" enctype="text/plain">
-      <label>Nombre<input type="text" name="nombre" required></label>
-      <label>Correo electrónico<input type="email" name="correo" required></label>
-      <label>Asunto<input type="text" name="asunto"></label>
-      <label>Mensaje<textarea name="mensaje" rows="7" required></textarea></label>
+    <form class="contact-form" action="enviar-contacto.php" method="post">
+      <div class="form-status" role="status" aria-live="polite"></div>
+      <label>Nombre<input type="text" name="nombre" autocomplete="name" maxlength="100" required></label>
+      <label>Correo electrónico<input type="email" name="correo" autocomplete="email" maxlength="160" required></label>
+      <label>Asunto<input type="text" name="asunto" maxlength="150"></label>
+      <label>Mensaje<textarea name="mensaje" rows="7" maxlength="5000" required></textarea></label>
+      <label class="form-honeypot" aria-hidden="true">No rellenes este campo<input type="text" name="web" tabindex="-1" autocomplete="off"></label>
       <button class="button" type="submit">Enviar mensaje →</button>
-      <p class="form-note">Al enviar se abrirá tu aplicación de correo con el mensaje dirigido a info@solvidacycling.com.</p>
+      <p class="form-note">Tus datos se utilizarán únicamente para responder a tu mensaje.</p>
     </form>
   </section>
   <section class="instagram-invite">
     <div class="container instagram-invite-inner">
       <div>
         <p class="eyebrow">Instagram</p>
-        <h2>También nos vemos sobre la bici</h2>
-        <p>Sesiones, formaciones, eventos y el día a día del ciclismo indoor.</p>
+        <h2>También puedes encontrarme en Instagram</h2>
+        <p>Ciclismo indoor, formaciones, viajes y un poco de mí.</p>
         <span>@sol_vidacycling</span>
       </div>
-      <a class="button instagram-button" href="https://www.instagram.com/sol_vidacycling/" target="_blank" rel="noopener">Sígueme en Instagram →</a>
+      <a class="button instagram-button" href="https://www.instagram.com/sol_vidacycling/" target="_blank" rel="noopener">Ver mi Instagram →</a>
     </div>
   </section>
 </main>
