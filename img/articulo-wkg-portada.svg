@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+  <title id="t">Potencia relativa en ciclismo indoor</title><desc id="d">Dos ciclistas sobre bicicletas indoor y sus valores de vatios por kilo</desc>
+  <rect width="900" height="560" rx="28" fill="#eaf5f7"/>
+  <path d="M70 440 C200 410 245 440 350 365 S540 310 830 185" fill="none" stroke="#b9d4e2" stroke-width="8" stroke-linecap="round"/>
+  <g fill="none" stroke="#0d4d6d" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="250" cy="365" r="57"/><circle cx="425" cy="365" r="57"/><path d="m250 365 72-104 103 104H315l-65-104h72l52 104"/><circle cx="338" cy="185" r="25"/><path d="m328 214-43 70 65 30 49-72"/>
+  </g>
+  <g fill="none" stroke="#17698d" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" transform="translate(310 -45) scale(.82)">
+    <circle cx="250" cy="365" r="57"/><circle cx="425" cy="365" r="57"/><path d="m250 365 72-104 103 104H315l-65-104h72l52 104"/><circle cx="338" cy="185" r="25"/><path d="m328 214-43 70 65 30 49-72"/>
+  </g>
+  <g font-family="Arial,sans-serif" text-anchor="middle"><rect x="95" y="64" width="250" height="82" rx="18" fill="#fff"/><text x="220" y="99" font-size="22" fill="#607985">240 W · 80 kg</text><text x="220" y="130" font-size="30" font-weight="700" fill="#0d4d6d">3 W/kg</text><rect x="555" y="64" width="250" height="82" rx="18" fill="#fff"/><text x="680" y="99" font-size="22" fill="#607985">200 W · 50 kg</text><text x="680" y="130" font-size="30" font-weight="700" fill="#17698d">4 W/kg</text></g>
+</svg>
